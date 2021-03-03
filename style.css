@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	padding: 0 5%;
+
+}
+
+.nav {
+	margin-left: 2%;
+}
+
+
+.navbar-custom {
+	background-color: #f2f2f2;
+}
+
+.nav-link {
+	color: black;
+	text-decoration: none;
+}
+
+.hotel-list {
+	//padding: 0 5%;
+}
+
+.card {
+	margin: 4% 2%;
+	box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
+	transition: 0.5s;
+}
+
+.card:hover {
+	transform: translate(0, -15px);
+	transition: 0.5s;
+}
+
+h1, h2 {
+	padding: 2% 0%;
+}
+
+#carouselExampleControls {
+	width: 100%;
+}
+
+ul {
+	padding: 2% 0%;
+}
